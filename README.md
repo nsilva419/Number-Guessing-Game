@@ -8,6 +8,7 @@ A command-line number guessing game built in Python.
 - Input validation and error handling for invalid inputs
 - Higher/lower hints after each guess
 - Tracks number of tries after each guess
+- Asks player if they would like to play again
 
 ## How to Run
 1. Make sure Python is installed on your computer
